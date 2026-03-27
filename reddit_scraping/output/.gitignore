@@ -1,0 +1,4 @@
+# Collator / merge outputs
+*.json
+*.jsonl
+*.csv

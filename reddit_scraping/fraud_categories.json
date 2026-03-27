@@ -1,0 +1,207 @@
+{
+  "category_queries": {
+    "phishing_cyber": [
+      "phishing",
+      "sms scam",
+      "email scam",
+      "otp scam",
+      "sim swap",
+      "malware scam"
+    ],
+    "identity_impersonation": [
+      "bank scam",
+      "government scam",
+      "cra scam",
+      "police scam",
+      "amazon scam",
+      "paypal scam",
+      "spoofed call"
+    ],
+    "financial_investment": [
+      "investment scam",
+      "crypto scam",
+      "ponzi",
+      "loan scam",
+      "pig butchering"
+    ],
+    "job_opportunity": [
+      "job scam",
+      "fake recruiter",
+      "work from home scam",
+      "task scam",
+      "data entry scam"
+    ],
+    "social_engineering": [
+      "romance scam",
+      "grandparent scam",
+      "emergency scam",
+      "catfish scam"
+    ],
+    "ecommerce_marketplace": [
+      "marketplace scam",
+      "seller scam",
+      "buyer scam",
+      "refund scam",
+      "non delivery scam",
+      "counterfeit scam"
+    ],
+    "service_support": [
+      "tech support scam",
+      "immigration scam",
+      "insurance scam"
+    ],
+    "prize_lottery": [
+      "lottery scam",
+      "prize scam",
+      "gift card scam",
+      "sweepstakes scam"
+    ],
+    "extortion_threat": [
+      "sextortion",
+      "blackmail scam",
+      "cartel scam",
+      "extortion email"
+    ],
+    "charity_donation": [
+      "charity scam",
+      "donation scam"
+    ],
+    "business_b2b_fraud": [
+      "invoice fraud",
+      "wire fraud",
+      "vendor scam",
+      "supplier fraud"
+    ]
+  },
+  "category_keywords": {
+    "phishing_cyber": [
+      "phishing",
+      "spear phishing",
+      "smishing",
+      "vishing",
+      "email scam",
+      "text scam",
+      "sms scam",
+      "otp scam",
+      "malware",
+      "ransomware",
+      "sim swap",
+      "credential theft",
+      "account takeover",
+      "fake link",
+      "fake website"
+    ],
+    "identity_impersonation": [
+      "impersonation",
+      "pretending to be",
+      "fake bank",
+      "bank scam",
+      "government scam",
+      "cra scam",
+      "irs scam",
+      "police scam",
+      "amazon scam",
+      "paypal scam",
+      "spoofed number",
+      "spoofed call",
+      "fake support",
+      "collection agency scam",
+      "ceo scam",
+      "executive scam"
+    ],
+    "financial_investment": [
+      "investment scam",
+      "investment fraud",
+      "crypto scam",
+      "bitcoin scam",
+      "forex scam",
+      "trading scam",
+      "ponzi",
+      "pyramid scheme",
+      "pump and dump",
+      "advance fee",
+      "loan scam",
+      "fake broker",
+      "pig butchering",
+      "rug pull"
+    ],
+    "job_opportunity": [
+      "job scam",
+      "fake job",
+      "work from home scam",
+      "task scam",
+      "recruiter scam",
+      "employment scam",
+      "interview scam",
+      "mystery shopper",
+      "fake offer letter",
+      "data entry scam"
+    ],
+    "social_engineering": [
+      "grandparent scam",
+      "romance scam",
+      "dating scam",
+      "catfish",
+      "emergency scam",
+      "social engineering",
+      "manipulated",
+      "help me urgently",
+      "friend in trouble"
+    ],
+    "ecommerce_marketplace": [
+      "marketplace scam",
+      "facebook marketplace scam",
+      "seller scam",
+      "buyer scam",
+      "chargeback scam",
+      "non delivery",
+      "counterfeit",
+      "fake product",
+      "online shopping scam",
+      "refund scam",
+      "overpayment scam"
+    ],
+    "service_support": [
+      "tech support scam",
+      "remote access scam",
+      "computer support scam",
+      "immigration scam",
+      "visa scam",
+      "insurance scam",
+      "home repair scam"
+    ],
+    "prize_lottery": [
+      "lottery scam",
+      "prize scam",
+      "sweepstakes scam",
+      "you won",
+      "gift card scam",
+      "giveaway scam"
+    ],
+    "extortion_threat": [
+      "sextortion",
+      "blackmail",
+      "extortion",
+      "threatening email",
+      "cartel scam",
+      "hitman scam",
+      "ransom demand"
+    ],
+    "charity_donation": [
+      "charity scam",
+      "donation scam",
+      "fundraiser scam",
+      "disaster relief scam"
+    ],
+    "business_b2b_fraud": [
+      "invoice fraud",
+      "wire fraud",
+      "supplier fraud",
+      "payroll scam",
+      "procurement fraud",
+      "b2b fraud",
+      "vendor scam",
+      "fake invoice"
+    ]
+  }
+}
